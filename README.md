@@ -1,5 +1,8 @@
 # 🎮 ExH for Fortnite Textures
 
+<img width="626" height="306" alt="image" src="https://github.com/user-attachments/assets/d48c19f0-dd8b-4a62-b246-21d47d37aec2" />
+<img width="621" height="308" alt="image" src="https://github.com/user-attachments/assets/852f2b0e-65ef-42ed-80b9-9d42a788cf93" />
+
 **Изменение и очистка файлов Fortnite**
 ## 📦 Скачать
 
