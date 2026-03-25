@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/wirlyy/ExH-Fortnite-Textures/releases/latest/download/ExH_for_Fortnite_Textures.exe">
+  <a href="https://github.com/wirlyyx/ExH-Fortnite-Textures/releases/tag/v1">
     <img src="https://img.shields.io/badge/СКАЧАТЬ-2ea44f?style=for-the-badge&logo=windows&logoColor=white&labelColor=2ea44f&color=2ea44f&scale=3" alt="Скачать" style="height: 35px;" />
   </a>
 </div>
