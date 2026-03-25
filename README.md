@@ -4,6 +4,7 @@
 ## 📦 Скачать
 
 [![Release](https://img.shields.io/github/v/release/wirlyy/ExH-Fortnite-Textures?label=Latest%20Release&style=for-the-badge)](https://github.com/wirlyy/ExH-Fortnite-Textures/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/wirlyy/ExH-Fortnite-Textures/total?style=for-the-badge)](https://github.com/wirlyy/ExH-Fortnite-Textures/releases)
 
 ---
 
