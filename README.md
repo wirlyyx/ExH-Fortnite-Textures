@@ -12,10 +12,7 @@
 </div>
 
 
-<div align="center">
-  
-  ## 📥 Скачать
-  
+
 <div align="center">
   <img width="49%" alt="image" src="https://github.com/user-attachments/assets/d48c19f0-dd8b-4a62-b246-21d47d37aec2" />
   <img width="49%" alt="image" src="https://github.com/user-attachments/assets/852f2b0e-65ef-42ed-80b9-9d42a788cf93" />
@@ -23,10 +20,8 @@
 
 <div align="center">
   <a href="https://github.com/wirlyy/ExH-Fortnite-Textures/releases/latest/download/ExH_for_Fortnite_Textures.exe">
-    <img src="https://img.shields.io/badge/СКАЧАТЬ-2ea44f?style=for-the-badge&logo=windows&logoColor=white&labelColor=2ea44f&color=2ea44f&scale=3" alt="Скачать" style="height: 40px;" />
+    <img src="https://img.shields.io/badge/СКАЧАТЬ-2ea44f?style=for-the-badge&logo=windows&logoColor=white&labelColor=2ea44f&color=2ea44f&scale=3" alt="Скачать" style="height: 35px;" />
   </a>
-</div>
-
 </div>
 
 ---
