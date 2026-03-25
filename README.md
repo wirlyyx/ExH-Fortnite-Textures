@@ -1,6 +1,6 @@
 # 🎮 ExH for Fortnite Textures
 
-**очистка файлов Fortnite**
+**Изменение и очистка файлов Fortnite**
 ## 📦 Скачать
 
 [![Release](https://img.shields.io/github/v/release/wirlyy/ExH-Fortnite-Textures?label=Latest%20Release&style=for-the-badge)](https://github.com/wirlyy/ExH-Fortnite-Textures/releases/latest)
@@ -27,8 +27,8 @@
 
 | Функция | Описание |
 |---------|----------|
-| 🧼 **Soap Textures** | Применение специальных настроек NVIDIA  |
-| 🧹 **Strip** | удаление текстур скинов |
+| 🧼 **Soap Textures** | Изменение текстур через NVIDIA Profile Inspector  |
+| 🧹 **Strip** | Замена текстур скинов на мыльные |
 | 🌍 **Delete Localization** | Удаление ненужных языковых пакетов |
 | 🗑️ **Delete .pak Files** | Очистка ненужных pak-файлов |
 | 💀 **Delete Trash Files** | Удаление мусорных файлов и кэша |
@@ -38,7 +38,10 @@
 ## 📥 Установка
 
 ### Требования
-- Python 3.11 
-- Windows 10/11
-- pip install -r requirements.txt
+- Python 3.11+
+- Windows 10 / 11
 - Fortnite (Epic Games Launcher)
+
+### Зависимости
+```bash
+pip install -r requirements.txt
